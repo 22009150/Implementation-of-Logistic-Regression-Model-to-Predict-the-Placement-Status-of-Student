@@ -9,11 +9,17 @@ To write a program to implement the the Logistic Regression Model to Predict the
 
 ## Algorithm
  
-1.Import the required libraries .
+1.Import the required libraries.
+
 2.Load the dataset and check for null data values and duplicate data values in the dataframe.
+
 3.Import label encoder from sklearn.preprocessing to encode the dataset.
+
 4.Apply Logistic Regression on to the model.
+
 5.Predict the y values.
+
+
 6.Calculate the Accuracy,Confusion and Classsification report.
 
 
